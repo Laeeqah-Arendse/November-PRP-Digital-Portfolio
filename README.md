@@ -1,10 +1,10 @@
 # November-PRP-Digital-Portfolio
 
-Name: Laeeqah Arendse  
-Student Number: 230055923  
+Name: Laeeqah Arendse
+Student Number: 230055923
 Subject: Professional Presentation - PRP372S
 Date: 18 October 2025
-Qualification: Diploma in ICT: Applications Development  
+Qualification: Diploma in ICT: Applications Development
 Institution: Cape Peninsula University of Technology
 
 Table of Contents
@@ -15,12 +15,11 @@ Table of Contents
 5. Workplace Etiquette
 
 
-1. Business Communication
-Evidence:
-Emails
-
-- Situation: During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but I still needed to inform my project manager about my absence.
-- Task: My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so that my manager could make any necessary schedule adjustments and remain informed.
+  1. Business Communication
+  Evidence:
+  Emails
+  - Situation: During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but  I still needed to inform my project manager about my absence.
+ - Task: My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so that my manager could make any necessary schedule adjustments and remain informed.
 - Action: I wrote a formal email explaining my situation briefly and respectfully. I apologized for the short notice, mentioned that I was hospitalized, and provided an estimated time for recovery. I also assured my manager that I would keep them updated and provide a medical certificate upon return.
 - Result: My project manager appreciated my honesty and professionalism. They allowed me the necessary recovery time and arranged temporary adjustments to my project workload.
 
