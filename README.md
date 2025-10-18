@@ -1,83 +1,103 @@
 # November-PRP-Digital-Portfolio
 
-Name: Laeeqah Arendse
-Student Number: 230055923
-Subject: Professional Presentation - PRP372S
-Date: 18 October 2025
-Qualification: Diploma in ICT: Applications Development
-Institution: Cape Peninsula University of Technology
+**Name:** Laeeqah Arendse  
+**Student Number:** 230055923  
+**Subject:** Professional Presentation - PRP372S  
+**Date:** 18 October 2025  
+**Qualification:** Diploma in ICT: Applications Development  
+**Institution:** Cape Peninsula University of Technology  
 
-Table of Contents
-1. Business Communication
-2. Interview Skills
-3. Mock Interview
-4. Professional Networking
-5. Workplace Etiquette
-6. Overall Reflection
+---
 
+## Table of Contents
+1. [Business Communication](#1-business-communication)  
+2. [Interview Skills](#2-interview-skills)  
+3. [Mock Interview](#3-mock-interview)  
+4. [Professional Networking](#4-professional-networking)  
+5. [Workplace Etiquette](#5-workplace-etiquette--reflection-star)  
+6. [Overall Reflection](#6-overall-reflection)  
 
-1. Business Communication
-Evidence:
-Emails
-- Situation: During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but  I still needed to inform my project manager about my absence.
- - Task: My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so that my manager could make any necessary schedule adjustments and remain informed.
-- Action: I wrote a formal email explaining my situation briefly and respectfully. I apologized for the short notice, mentioned that I was hospitalized, and provided an estimated time for recovery. I also assured my manager that I would keep them updated and provide a medical certificate upon return.
-- Result: My project manager appreciated my honesty and professionalism. They allowed me the necessary recovery time and arranged temporary adjustments to my project workload.
+---
 
-Learning: I learned that professionalism extends beyond regular work. It includes how we communicate during unexpected circumstances. Being transparent and respectful in difficult situations helps maintain trust and ensures smooth communication in the workplace. 
+## 1. Business Communication  
 
+**Evidence:** [Email Communication Sample](#)  
 
-2. Interview Skills
-Evidence:
-CV, Cover letter
+- **Situation:** During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but I still needed to inform my project manager about my absence.  
+- **Task:** My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so my manager could adjust schedules and remain informed.  
+- **Action:** I wrote a formal email explaining my situation respectfully, apologized for the short notice, provided an estimated recovery time, and assured updates upon return.  
+- **Result:** My project manager appreciated my honesty and professionalism, allowing me recovery time and adjusting my workload.  
 
-- Situation: As part of my job search during Work Integrated Learning (WIL), I was invited to an interview at The Building Company for an E-Commerce Developer Internship position. I was excited because it aligned perfectly with my technical interests and career goals.
-- Task: My goal was to perform well in the interview by communicating my skills confidently and professionally while also ensuring the position aligned with my academic commitments.
-- Action: I prepared thoroughly for the interview by researching the company’s e-commerce operations, practicing potential technical and behavioral questions, and reviewing my CV and project portfolio. During the interview, I showcased my experience in web and mobile development.
-- Result: The interview went very well, and the interviewer acknowledged that my skills matched the role. However, the internship required working from Monday to Saturday, and I explained that I had classes on Mondays that I could not miss. Unfortunately, they were unable to make accommodations, and I was not offered the position. 
+**Learning:**  
+Professionalism extends to how we communicate during unexpected circumstances. Transparency and respect maintain trust and ensure effective workplace communication.  
 
-Learning: Although I didn’t get the job, the experience taught me valuable lessons about professional communication, negotiation, and prioritization. I learned that being honest about your availability is part of maintaining integrity. I also realized that sometimes, the right opportunity is not only about the role itself but also about whether it fits your circumstances and long-term goals.
+---
 
+## 2. Interview Skills  
 
-3. Mock Interview
-Evidence:
-mock interview video
+**Evidence:** [View My CV](#) | [View Cover Letter](#)  
 
-- Situation: Before the mock interview, I realized I struggled to confidently answer behavioral questions, especially those asking for examples of past experiences.
-- Task: My goal was to prepare structured responses that showcased my skills and experience effectively during an interview.
-- Action: I researched common interview questions, practiced the STAR method to frame my answers, and recorded myself to review tone and body language. I also rehearsed with my parents to receive feedback.
-- Result: During the mock interview, I felt more confident, maintained good eye contact, and gave concise answers but it felt a bit too rehearsed and unnatural.
+- **Situation:** During WIL, I was invited to an interview at *The Building Company* for an **E-Commerce Developer Internship**.  
+- **Task:** I aimed to confidently present my skills while ensuring the position fit my academic schedule.  
+- **Action:** I researched the company, practiced technical and behavioral questions, and reviewed my CV and portfolio.  
+- **Result:** The interview went well, but the role required Monday–Saturday availability. Since I attended classes on Mondays, I declined the offer due to schedule conflicts.  
 
-Learning:
-I realized that interviews are about showcasing both technical competence and personality. I plan to improve by preparing detailed examples of my past projects and accomplishments.
+**Learning:**  
+Even though I didn’t get the job, I learned the value of integrity and balance between education and work. The experience improved my confidence and communication in professional settings.  
 
+---
 
- 4. Professional Networking
-Evidence:
-linkedin profile link, connections, shadowing schedule
+## 3. Mock Interview  
 
-- Situation: During my Work Integrated Learning (WIL) period, I realized the importance of building professional connections in the IT field. I reached out to family members who work in technology-related roles and arranged to shadow them to better understand real-world work environments. I also secured an opportunity to shadow the IT Department at The Building Company for three days.
-- Task: My goal was to observe how IT professionals collaborate, manage systems, and solve technical issues in a corporate environment, while also building relationships that could help me grow professionally.
-- Action: I spent three days shadowing IT specialists, observing daily operations such as troubleshooting, software updates, and network management. I asked questions about their roles, tools used, and how they handle workplace challenges. I also took notes on their communication practices and project management techniques.
-- Result: Through these experiences, I gained valuable insights into how theoretical knowledge from class is applied in a real workplace. I also developed stronger professional relationships with industry professionals who offered guidance and mentorship for my career path.
+**Evidence:** [Mock Interview Video](#)  
 
-Learning: I learned that networking is about building meaningful professional relationships rather than just collecting contacts. Shadowing helped me understand workplace dynamics, improved my technical awareness, and motivated me to pursue continuous learning in my field. I now see networking as an ongoing process that helps with both personal and professional growth.
+- **Situation:** Before my mock interview, I found it difficult to answer behavioral questions confidently.  
+- **Task:** I wanted to improve how I structured my responses and presented my experience.  
+- **Action:** I used the STAR method to practice, researched common interview questions, and recorded myself to refine tone and posture.  
+- **Result:** I delivered concise answers and appeared more confident, though slightly rehearsed.  
 
+**Learning:**  
+Interviews test both competence and authenticity. I plan to use more natural examples and conversational tone in future interviews.  
 
-5. Workplace Etiquette – Reflection (STAR)
-Evidence:
-CardConnect repo, meeting minutes, T3 ind documentation
+---
 
-- Situation: During the development of my CardConnect mobile application for Project 3, I worked in a collaborative environment that required professionalism, time management, and consistent communication with team members and supervisors.
-- Task: My responsibility was to complete my assigned backend tasks, follow proper communication channels, and ensure my contributions met the team’s coding standards and project deadlines.
-- Action: I practiced professional workplace etiquette by maintaining clear and respectful communication with my teammates, attending scheduled meetings on time, and updating our shared documentation regularly. I ensured that feedback was given and received politely and made sure to meet deadlines even when challenges arose.
-- Result: Our team completed the project successfully and will be presenting a functional prototype that demonstrates both technical skill and teamwork. 
+## 4. Professional Networking  
 
-Learning:
-I learned that workplace etiquette extends beyond simple manners.It includes reliability, accountability, teamwork, and respectful communication. The experience taught me that maintaining professionalism, even during stressful times, leads to stronger collaboration and better outcomes.
+**Evidence:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) | [Shadowing Schedule](#)  
 
+- **Situation:** During WIL, I realized the importance of professional networking. I reached out to family in IT roles and shadowed them, as well as the IT Department at *The Building Company* for three days.  
+- **Task:** My goal was to observe collaboration, system management, and professional conduct while forming meaningful industry connections.  
+- **Action:** I shadowed IT professionals, observed troubleshooting, software updates, and communication in daily operations.  
+- **Result:** I gained insight into how theory connects with real-world applications and built valuable professional relationships.  
 
-6. Overall Reflection:
-Through working on multiple projects, I strengthened my technical skills in database integration, backend development, and user interface design, while also learning the importance of teamwork and professionalism.
-Communicating with my project manager during my hospitalization taught me the value of clear, respectful communication in maintaining trust and accountability. Although I didn’t secure the E-Commerce Developer Intern position at The Building Company due to scheduling conflicts, the interview helped me improve my confidence and understanding of employer expectations.
-By networking and shadowing IT professionals, including family members and staff at The Building Company, I gained valuable insight into workplace operations and professional conduct. Overall, this experience has enhanced my technical, communication, and interpersonal skills, preparing me for future opportunities in the IT industry.
+**Learning:**  
+Networking is about genuine, lasting professional connections. Shadowing helped me understand workplace dynamics and strengthened my motivation to keep learning and growing in IT.  
+
+---
+
+## 5. Workplace Etiquette – Reflection (STAR)  
+
+**Evidence:** [CardConnect Repository](https://github.com/yourusername/CardConnect) | [Meeting Minutes](#) | [T3 IND Documentation](#)  
+
+- **Situation:** While developing my **CardConnect mobile application**, I worked in a collaborative environment that required professionalism, time management, and consistent communication.  
+- **Task:** I was responsible for backend development, proper communication, and meeting deadlines.  
+- **Action:** I attended meetings punctually, documented progress, communicated respectfully, and implemented feedback constructively.  
+- **Result:** Our team successfully delivered a working prototype that reflected both technical competence and teamwork.  
+
+**Learning:**  
+Workplace etiquette involves respect, accountability, and professionalism. *CardConnect* taught me that reliability and communication are key to effective collaboration.  
+
+---
+
+## 6. Overall Reflection  
+
+Through my WIL and project experiences, I strengthened my technical abilities in **database integration**, **backend development**, and **UI design**, while learning valuable lessons in teamwork and professionalism.  
+
+Communicating with my project manager during my hospitalization taught me the importance of honesty and responsibility. Although I didn’t secure the *E-Commerce Developer* position at *The Building Company*, the experience built my confidence and professionalism.  
+
+By **networking and shadowing IT professionals**, including family members and the IT staff at *The Building Company*, I gained real-world insight into professional conduct and operations. Overall, my journey has enhanced my technical, communication, and interpersonal skills — preparing me for a successful career in the IT industry.  
+
+---
+
+© 2025 Laeeqah Arendse  
+_Cape Peninsula University of Technology | Professional Presentation (PRP372S)_
