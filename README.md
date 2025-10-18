@@ -64,7 +64,7 @@ Interviews test both competence and authenticity. I plan to use more natural exa
 
 ## 4. Professional Networking  
 
-**Evidence:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/laeeqah-arendse-7b63b2296?trk=contact-info)) | [Shadowing Schedule](artefacts/Shadow%20Schedule1.jpeg) | [Shadowing Schedule](artefacts/Shadow%20Schedule2.jpeg)  
+**Evidence:** [LinkedIn Profile](https://www.linkedin.com/in/laeeqah-arendse-7b63b2296?trk=contact-info) | [Shadowing Schedule](artefacts/Shadow%20Schedule1.jpeg) | [Shadowing Schedule](artefacts/Shadow%20Schedule2.jpeg)  
 
 - **Situation:** During WIL, I realized the importance of professional networking. I reached out to family in IT roles and shadowed them, as well as the IT Department at The Building Company for four days.  
 - **Task:** My goal was to observe collaboration, system management, and professional conduct while forming meaningful industry connections.  
