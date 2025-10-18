@@ -13,12 +13,13 @@ Table of Contents
 3. Mock Interview
 4. Professional Networking
 5. Workplace Etiquette
+6. Overall Reflection
 
 
-  1. Business Communication
-  Evidence:
-  Emails
-  - Situation: During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but  I still needed to inform my project manager about my absence.
+1. Business Communication
+Evidence:
+Emails
+- Situation: During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but  I still needed to inform my project manager about my absence.
  - Task: My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so that my manager could make any necessary schedule adjustments and remain informed.
 - Action: I wrote a formal email explaining my situation briefly and respectfully. I apologized for the short notice, mentioned that I was hospitalized, and provided an estimated time for recovery. I also assured my manager that I would keep them updated and provide a medical certificate upon return.
 - Result: My project manager appreciated my honesty and professionalism. They allowed me the necessary recovery time and arranged temporary adjustments to my project workload.
@@ -27,7 +28,7 @@ Learning: I learned that professionalism extends beyond regular work. It include
 
 
 2. Interview Skills
-Evience:
+Evidence:
 CV, Cover letter
 
 - Situation: As part of my job search during Work Integrated Learning (WIL), I was invited to an interview at The Building Company for an E-Commerce Developer Internship position. I was excited because it aligned perfectly with my technical interests and career goals.
