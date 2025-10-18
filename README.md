@@ -14,7 +14,7 @@
 2. [Interview Skills](#2-interview-skills)  
 3. [Mock Interview](#3-mock-interview)  
 4. [Professional Networking](#4-professional-networking)  
-5. [Workplace Etiquette](#5-workplace-etiquette--reflection-star)  
+5. [Workplace Etiquette](#5-workplace-etiquette)  
 6. [Overall Reflection](#6-overall-reflection)  
 
 ---
@@ -38,7 +38,7 @@ Professionalism extends to how we communicate during unexpected circumstances. T
 
 **Evidence:** [CV](artefacts/October%20CV%202025.pdf) | [Cover Letter](artefacts/October%20Cover%20Letter%202025.pdf)  
 
-- **Situation:** During WIL, I was invited to an interview at *The Building Company* for an **E-Commerce Developer Internship**.  
+- **Situation:** During WIL, I was invited to an interview at The Building Company for an E-Commerce Developer Internship.  
 - **Task:** I aimed to confidently present my skills while ensuring the position fit my academic schedule.  
 - **Action:** I researched the company, practiced technical and behavioral questions, and reviewed my CV and portfolio.  
 - **Result:** The interview went well, but the role required Monday–Saturday availability. Since I attended classes on Mondays, I declined the offer due to schedule conflicts.  
@@ -66,7 +66,7 @@ Interviews test both competence and authenticity. I plan to use more natural exa
 
 **Evidence:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/laeeqah-arendse-7b63b2296?trk=contact-info)) | [Shadowing Schedule](artefacts/Shadow%20Schedule1.jpeg) | [Shadowing Schedule](artefacts/Shadow%20Schedule2.jpeg)  
 
-- **Situation:** During WIL, I realized the importance of professional networking. I reached out to family in IT roles and shadowed them, as well as the IT Department at *The Building Company* for three days.  
+- **Situation:** During WIL, I realized the importance of professional networking. I reached out to family in IT roles and shadowed them, as well as the IT Department at The Building Company for four days.  
 - **Task:** My goal was to observe collaboration, system management, and professional conduct while forming meaningful industry connections.  
 - **Action:** I shadowed IT professionals, observed troubleshooting, software updates, and communication in daily operations.  
 - **Result:** I gained insight into how theory connects with real-world applications and built valuable professional relationships.  
@@ -76,27 +76,27 @@ Networking is about genuine, lasting professional connections. Shadowing helped 
 
 ---
 
-## 5. Workplace Etiquette – Reflection (STAR)  
+## 5. Workplace Etiquette  
 
 **Evidence:** [Project Repository](artefacts/PRT%20Repo.png) | [T3 IND Documentation](PRT%20T3%20Individual%20Submission.pdf)  
 
-- **Situation:** While developing my **CardConnect mobile application**, I worked in a collaborative environment that required professionalism, time management, and consistent communication.  
+- **Situation:** While developing my project mobile application, I worked in a collaborative environment that required professionalism, time management, and consistent communication.  
 - **Task:** I was responsible for backend development, proper communication, and meeting deadlines.  
 - **Action:** I attended meetings punctually, documented progress, communicated respectfully, and implemented feedback constructively.  
 - **Result:** Our team successfully delivered a working prototype that reflected both technical competence and teamwork.  
 
 **Learning:**  
-Workplace etiquette involves respect, accountability, and professionalism. *CardConnect* taught me that reliability and communication are key to effective collaboration.  
+Workplace etiquette involves respect, accountability, and professionalism. Taught me that reliability and communication are key to effective collaboration.  
 
 ---
 
 ## 6. Overall Reflection  
 
-Through my WIL and project experiences, I strengthened my technical abilities in **database integration**, **backend development**, and **UI design**, while learning valuable lessons in teamwork and professionalism.  
+Through my WIL and project experiences, I strengthened my technical abilities in database integration, backend development, and UI design, while learning valuable lessons in teamwork and professionalism.  
 
-Communicating with my project manager during my hospitalization taught me the importance of honesty and responsibility. Although I didn’t secure the *E-Commerce Developer* position at *The Building Company*, the experience built my confidence and professionalism.  
+Communicating with my project manager during my hospitalization taught me the importance of honesty and responsibility. Although I didn’t secure the E-Commerce Developer position at The Building Company, the experience built my confidence and professionalism.  
 
-By **networking and shadowing IT professionals**, including family members and the IT staff at *The Building Company*, I gained real-world insight into professional conduct and operations. Overall, my journey has enhanced my technical, communication, and interpersonal skills — preparing me for a successful career in the IT industry.  
+By networking and shadowing IT professionals, including family members and the IT staff at The Building Company, I gained real-world insight into professional conduct and operations. Overall, my journey has enhanced my technical, communication, and interpersonal skills, preparing me for a successful career in the IT industry.  
 
 ---
 
