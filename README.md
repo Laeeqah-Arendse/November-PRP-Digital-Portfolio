@@ -21,7 +21,8 @@
 
 ## 1. Business Communication  
 
-**Evidence:** [Email Communication Sample](#)  
+**Evidence:** [Email](artefacts/Absence%20Email.pdf)
+  
 
 - **Situation:** During my Work Integrated Learning (WIL) placement, I unexpectedly suffered a concussion and had to be hospitalized. It was an urgent situation, but I still needed to inform my project manager about my absence.  
 - **Task:** My responsibility was to communicate my condition and absence in a clear, professional, and timely manner so my manager could adjust schedules and remain informed.  
@@ -35,7 +36,7 @@ Professionalism extends to how we communicate during unexpected circumstances. T
 
 ## 2. Interview Skills  
 
-**Evidence:** [View My CV](#) | [View Cover Letter](#)  
+**Evidence:** [CV](artefacts/October%20CV%202025.pdf) | [Cover Letter](artefacts/October%20Cover%20Letter%202025.pdf)  
 
 - **Situation:** During WIL, I was invited to an interview at *The Building Company* for an **E-Commerce Developer Internship**.  
 - **Task:** I aimed to confidently present my skills while ensuring the position fit my academic schedule.  
@@ -49,7 +50,7 @@ Even though I didn’t get the job, I learned the value of integrity and balance
 
 ## 3. Mock Interview  
 
-**Evidence:** [Mock Interview Video](#)  
+**Evidence:** [Mock Interview Video](artefacts/Mock%20Interview.mov)  
 
 - **Situation:** Before my mock interview, I found it difficult to answer behavioral questions confidently.  
 - **Task:** I wanted to improve how I structured my responses and presented my experience.  
@@ -63,7 +64,7 @@ Interviews test both competence and authenticity. I plan to use more natural exa
 
 ## 4. Professional Networking  
 
-**Evidence:** [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile) | [Shadowing Schedule](#)  
+**Evidence:** [LinkedIn Profile]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/laeeqah-arendse-7b63b2296?trk=contact-info)) | [Shadowing Schedule](artefacts/Shadow%20Schedule1.jpeg) | [Shadowing Schedule](artefacts/Shadow%20Schedule2.jpeg)  
 
 - **Situation:** During WIL, I realized the importance of professional networking. I reached out to family in IT roles and shadowed them, as well as the IT Department at *The Building Company* for three days.  
 - **Task:** My goal was to observe collaboration, system management, and professional conduct while forming meaningful industry connections.  
@@ -77,7 +78,7 @@ Networking is about genuine, lasting professional connections. Shadowing helped 
 
 ## 5. Workplace Etiquette – Reflection (STAR)  
 
-**Evidence:** [CardConnect Repository](https://github.com/yourusername/CardConnect) | [Meeting Minutes](#) | [T3 IND Documentation](#)  
+**Evidence:** [Project Repository](artefacts/PRT%20Repo.png) | [T3 IND Documentation](PRT%20T3%20Individual%20Submission.pdf)  
 
 - **Situation:** While developing my **CardConnect mobile application**, I worked in a collaborative environment that required professionalism, time management, and consistent communication.  
 - **Task:** I was responsible for backend development, proper communication, and meeting deadlines.  
@@ -99,5 +100,3 @@ By **networking and shadowing IT professionals**, including family members and t
 
 ---
 
-© 2025 Laeeqah Arendse  
-_Cape Peninsula University of Technology | Professional Presentation (PRP372S)_
