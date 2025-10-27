@@ -2,7 +2,7 @@
 
 **Name:** Laeeqah Arendse  
 **Student Number:** 230055923  
-**Subject:** Professional Presentation - PRP372S  
+**Subject:** Project Presentation - PRP372S  
 **Date:** 18 October 2025  
 **Qualification:** Diploma in ICT: Applications Development  
 **Institution:** Cape Peninsula University of Technology  
